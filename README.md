@@ -49,6 +49,8 @@ Communicate insights clearly through design
 
 ## This dashboard reflects my ability to turn raw data into meaningful insights using Power BI, and marks a key step in my data analytics journey.
 
+⚠️ Note: The Power BI Dashboard (`HR Dashboard.pbix`) cannot be viewed directly on GitHub. Please download the file and open it using Power BI Desktop to explore the visuals.
+
 
 
 
