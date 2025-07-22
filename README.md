@@ -36,7 +36,18 @@ Employees with lower salary slabs show higher turnover.
 
 Life Sciences graduates form the majority workforce.
 
-*This dashboard reflects my ability to turn raw data into meaningful insights using Power BI, and marks a key step in my data analytics journey.*
+Lower salary groups are more likely to leave.
+
+# Through this project, I learned how to:
+
+Clean and transform raw HR data in Power BI using Power Query
+
+Build professional, interactive visuals
+
+Communicate insights clearly through design
+
+
+## This dashboard reflects my ability to turn raw data into meaningful insights using Power BI, and marks a key step in my data analytics journey.
 
 
 
