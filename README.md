@@ -46,6 +46,8 @@ Build professional, interactive visuals
 
 Communicate insights clearly through design
 
+![HR Dashboard](HRdashboard.png)
+
 
 ## This dashboard reflects my ability to turn raw data into meaningful insights using Power BI, and marks a key step in my data analytics journey.
 
