@@ -51,6 +51,9 @@ Communicate insights clearly through design.
 
 ⚠️ Note: The Power BI Dashboard (`HR Dashboard.pbix`) cannot be viewed directly on GitHub. Please download the file and open it using Power BI Desktop to explore the visuals.
 
+## OUTPUT
+<img width="904" height="504" alt="Image" src="https://github.com/user-attachments/assets/ce9f52dc-84d4-4b58-9fe8-d7b6b5b0aadb" />
+
 
 
 
